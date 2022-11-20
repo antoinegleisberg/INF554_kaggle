@@ -1,5 +1,5 @@
 data
+logs
+models
 papers
-pdfs
-
-doc2vec_model
+project_docs
