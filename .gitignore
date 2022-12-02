@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 __pycache__
+
+submission.csv
+
 data
 logs
 models
