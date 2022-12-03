@@ -98,9 +98,6 @@ def clean_data(input_df: pd.DataFrame, reindex_cols: List[str], remove_cols: Lis
             "favorites_count",
             "statuses_count",
             "followers_friends",
-            "polarity",
-            "subjectivity",
-            "hashtags_count",
         ],
     )
     res_df = res_df.reindex(columns=reindex_cols)
